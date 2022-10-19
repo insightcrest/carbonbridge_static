@@ -1,0 +1,21 @@
+{
+  "description": "The project is located in the forested areas of New Ireland and East New Britain in Papua New Guinea. The project has evolved based on the input and needs expressed by persons living in the region.", 
+  "external_url": "https://carbonbridge.earth/nft/2293/0", 
+  "image": "https://static.carbonbridge.earth/nft/2293/logo0.svg", 
+  "name": "NIHT Topaiyo REDD +",
+  "attributes": [
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1601395200
+    },
+    {
+        "trait_type": "Type",
+        "value": "EIP-1155"
+    },
+    {
+        "trait_type": "Author",
+        "value": "CarbonBridge"
+    }    
+  ], 
+}
